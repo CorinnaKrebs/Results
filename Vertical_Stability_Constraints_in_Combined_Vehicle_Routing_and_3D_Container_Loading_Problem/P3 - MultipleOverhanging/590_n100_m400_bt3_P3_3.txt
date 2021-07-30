@@ -2,7 +2,7 @@ Name:				590_n100_m400_bt3
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	5
 Total_Travel_Distance:		836.52
-Calculation_Time:		2971.22
+Calculation_Time:		3600.00
 Total_Iterations:		14
 ConstraintSet:			P3
 

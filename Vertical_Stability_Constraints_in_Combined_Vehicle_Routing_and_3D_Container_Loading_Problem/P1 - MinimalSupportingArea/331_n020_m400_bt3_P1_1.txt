@@ -2,8 +2,8 @@ Name:				331_n020_m400_bt3
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	3
 Total_Travel_Distance:		406.19
-Calculation_Time:		3600.00
-Total_Iterations:		5202
+Calculation_Time:		210.64
+Total_Iterations:		8021
 ConstraintSet:			P1
 
 -------------------------------------------------------------------------------------------------------------------

@@ -2,12 +2,18 @@ Name:				019_n020_m200_bt3
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	5
 Total_Travel_Distance:		450.81
-Calculation_Time:		92.48
-Total_Iterations:		8015
+Calculation_Time:		84.08
+Total_Iterations:		8060
 ConstraintSet:			P3
 
 -------------------------------------------------------------------------------------------------------------------
 Tour_Id:			1
+No_of_Customers:		1
+No_of_Items:			0
+Customer_Sequence:		3 
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			2
 No_of_Customers:		5
 No_of_Items:			50
 Customer_Sequence:		4 5 9 6 10 
@@ -66,7 +72,7 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 
 -------------------------------------------------------------------------------------------------------------------
-Tour_Id:			2
+Tour_Id:			3
 No_of_Customers:		5
 No_of_Items:			47
 Customer_Sequence:		15 1 11 18 20 
@@ -122,7 +128,7 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 
 -------------------------------------------------------------------------------------------------------------------
-Tour_Id:			3
+Tour_Id:			4
 No_of_Customers:		3
 No_of_Items:			26
 Customer_Sequence:		17 19 8 
@@ -157,7 +163,7 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 
 -------------------------------------------------------------------------------------------------------------------
-Tour_Id:			4
+Tour_Id:			5
 No_of_Customers:		6
 No_of_Items:			64
 Customer_Sequence:		2 16 12 7 14 13 
@@ -228,10 +234,4 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 2	14	3	0	14	5	14	11	5	7	200.64	1		10.982056
 2	15	3	0	13	5	21	11	5	7	200.64	1		10.982056
 
-
--------------------------------------------------------------------------------------------------------------------
-Tour_Id:			5
-No_of_Customers:		1
-No_of_Items:			0
-Customer_Sequence:		3 
 

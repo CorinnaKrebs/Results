@@ -2,12 +2,18 @@ Name:				169_n060_m200_bt3
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	3
 Total_Travel_Distance:		578.88
-Calculation_Time:		1801.26
-Total_Iterations:		10935
+Calculation_Time:		1588.43
+Total_Iterations:		8930
 ConstraintSet:			P1
 
 -------------------------------------------------------------------------------------------------------------------
 Tour_Id:			1
+No_of_Customers:		1
+No_of_Items:			0
+Customer_Sequence:		22 
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			2
 No_of_Customers:		33
 No_of_Items:			109
 Customer_Sequence:		43 46 16 35 15 58 56 49 41 26 2 19 40 18 17 29 5 39 14 21 60 50 36 6 3 52 8 47 1 34 55 42 30 
@@ -125,7 +131,7 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 
 -------------------------------------------------------------------------------------------------------------------
-Tour_Id:			2
+Tour_Id:			3
 No_of_Customers:		26
 No_of_Items:			89
 Customer_Sequence:		28 32 27 57 48 4 13 9 25 45 7 24 23 54 53 31 33 37 38 20 51 10 11 44 59 12 
@@ -221,10 +227,4 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 28	91	3	0	28	23	7	14	2	7	120.81	0		21.556965
 28	89	1	0	26	19	20	6	4	3	25.83	0		11.309078
 
-
--------------------------------------------------------------------------------------------------------------------
-Tour_Id:			3
-No_of_Customers:		1
-No_of_Items:			0
-Customer_Sequence:		22 
 

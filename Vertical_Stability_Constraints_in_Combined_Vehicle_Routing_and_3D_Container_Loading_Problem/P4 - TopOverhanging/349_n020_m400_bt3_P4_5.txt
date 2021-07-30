@@ -3,7 +3,7 @@ Problem:			3L-VRPTW
 Number_of_used_Vehicles:	4
 Total_Travel_Distance:		371.23
 Calculation_Time:		3600.00
-Total_Iterations:		18
+Total_Iterations:		12
 ConstraintSet:			P4
 
 -------------------------------------------------------------------------------------------------------------------

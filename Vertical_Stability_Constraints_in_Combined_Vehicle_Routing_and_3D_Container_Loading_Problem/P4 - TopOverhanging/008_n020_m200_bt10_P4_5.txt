@@ -2,8 +2,8 @@ Name:				008_n020_m200_bt10
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	4
 Total_Travel_Distance:		439.89
-Calculation_Time:		286.38
-Total_Iterations:		8017
+Calculation_Time:		243.36
+Total_Iterations:		8062
 ConstraintSet:			P4
 
 -------------------------------------------------------------------------------------------------------------------

@@ -149,12 +149,6 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 -------------------------------------------------------------------------------------------------------------------
 Tour_Id:			3
-No_of_Customers:		1
-No_of_Items:			0
-Customer_Sequence:		15 
-
--------------------------------------------------------------------------------------------------------------------
-Tour_Id:			4
 No_of_Customers:		7
 No_of_Items:			67
 Customer_Sequence:		20 10 17 8 13 18 3 
@@ -228,4 +222,10 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 20	197	6	0	21	10	10	15	2	4	42.97	0		25.234732
 20	198	7	0	20	0	18	11	4	7	121.83	1		8.411719
 
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			4
+No_of_Customers:		1
+No_of_Items:			0
+Customer_Sequence:		15 
 

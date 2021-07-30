@@ -8,12 +8,6 @@ ConstraintSet:			P3
 
 -------------------------------------------------------------------------------------------------------------------
 Tour_Id:			1
-No_of_Customers:		1
-No_of_Items:			0
-Customer_Sequence:		11 
-
--------------------------------------------------------------------------------------------------------------------
-Tour_Id:			2
 No_of_Customers:		6
 No_of_Items:			67
 Customer_Sequence:		7 20 19 9 12 8 
@@ -89,7 +83,7 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 
 
 -------------------------------------------------------------------------------------------------------------------
-Tour_Id:			3
+Tour_Id:			2
 No_of_Customers:		7
 No_of_Items:			68
 Customer_Sequence:		6 4 14 17 10 15 1 
@@ -164,6 +158,12 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 6	50	3	1	48	0	21	16	6	7	159.67	1		7.459042
 6	51	3	1	53	0	0	16	6	7	159.67	1		7.459042
 
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			3
+No_of_Customers:		1
+No_of_Items:			0
+Customer_Sequence:		11 
 
 -------------------------------------------------------------------------------------------------------------------
 Tour_Id:			4

@@ -2,8 +2,8 @@ Name:				166_n060_m200_bt3
 Problem:			3L-VRPTW
 Number_of_used_Vehicles:	3
 Total_Travel_Distance:		571.90
-Calculation_Time:		1192.08
-Total_Iterations:		8125
+Calculation_Time:		1179.73
+Total_Iterations:		8048
 ConstraintSet:			P1
 
 -------------------------------------------------------------------------------------------------------------------
