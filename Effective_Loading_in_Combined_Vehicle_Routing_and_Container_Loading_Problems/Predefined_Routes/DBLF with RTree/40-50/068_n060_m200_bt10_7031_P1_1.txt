@@ -1,0 +1,24 @@
+Name:				068_n060_m200_bt10_7031
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	1
+Total_Travel_Distance:		94.43
+Calculation_Time:		3.66
+Total_Iterations:		1
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		2
+No_of_Items:			7
+Customer_Sequence:		26 31 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+31	97	4	0	0	0	0	28	14	8	807.46	1		4.077456
+31	100	9	0	28	0	0	23	13	12	1137.75	0		94.040425
+31	96	1	0	0	14	0	26	6	12	455.10	0		26.388433
+31	99	8	0	26	14	0	34	9	14	767.77	0		7.662072
+31	98	7	0	0	14	12	12	7	14	476.44	0		52.777447
+26	81	6	0	26	14	14	33	5	14	301.45	0		22.529329
+26	80	3	0	28	0	12	26	11	8	487	0		18.123386
+
+

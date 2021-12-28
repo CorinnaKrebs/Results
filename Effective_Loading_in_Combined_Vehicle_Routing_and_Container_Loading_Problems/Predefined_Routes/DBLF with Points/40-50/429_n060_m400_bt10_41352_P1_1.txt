@@ -1,0 +1,26 @@
+Name:				429_n060_m400_bt10_41352
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	1
+Total_Travel_Distance:		52.65
+Calculation_Time:		0.06
+Total_Iterations:		1
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		2
+No_of_Items:			9
+Customer_Sequence:		35 12 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+12	77	2	0	0	0	0	24	7	12	373.82	0		19.240370
+12	78	2	0	0	7	0	24	7	12	373.82	0		19.240370
+12	79	5	0	0	14	0	35	7	10	445.10	1		5.909753
+35	227	3	0	0	0	12	27	11	7	446.97	0		11.783615
+35	226	2	0	24	0	0	24	7	12	373.82	0		19.240370
+35	224	1	0	0	0	19	21	10	8	456.59	0		25.105358
+35	225	1	0	35	7	0	21	10	8	456.59	0		25.105358
+35	228	5	0	0	14	10	35	7	10	445.10	1		5.909753
+35	229	9	0	0	14	20	24	6	8	160.96	1		15.401635
+
+

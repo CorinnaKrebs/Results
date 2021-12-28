@@ -1,0 +1,26 @@
+Name:				554_n100_m400_bt100_53187
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	1
+Total_Travel_Distance:		138.28
+Calculation_Time:		0.07
+Total_Iterations:		1
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		2
+No_of_Items:			9
+Customer_Sequence:		34 16 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+16	72	73	0	0	0	0	33	7	12	327.93	0		15.424598
+16	71	64	0	0	7	0	20	11	10	327.11	0		28.390992
+16	70	29	0	0	7	10	24	12	7	263.92	0		10.364980
+16	73	87	0	0	7	17	12	12	9	456.08	0		25.583984
+34	139	55	0	24	7	0	32	9	14	895.54	0		6.722446
+34	138	47	0	24	7	14	30	12	6	723.81	0		15.915541
+34	137	35	0	24	7	20	24	11	6	295.69	0		16.437449
+34	140	65	0	0	19	0	26	5	8	190.46	0		13.354368
+34	136	28	0	0	0	12	29	7	8	235.90	1		2.503919
+
+

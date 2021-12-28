@@ -1,0 +1,22 @@
+Name:				224_n100_m200_bt100_18678
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	1
+Total_Travel_Distance:		96.50
+Calculation_Time:		0.04
+Total_Iterations:		1
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		2
+No_of_Items:			5
+Customer_Sequence:		57 53 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+53	106	92	0	0	0	0	26	12	12	2467.03	0		262.062089
+53	105	4	0	0	12	0	30	11	6	425.33	0		16.764149
+57	113	41	0	0	12	6	35	6	13	840.26	0		47.151109
+57	114	54	0	0	0	12	20	11	11	2769.46	0		99.509161
+57	112	13	0	26	0	0	29	12	10	2421.30	1		28.445028
+
+

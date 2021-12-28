@@ -1,0 +1,23 @@
+Name:				488_n100_m400_bt10_46452
+Problem:			3L-VRPTW
+Number_of_used_Vehicles:	1
+Total_Travel_Distance:		102.30
+Calculation_Time:		0.46
+Total_Iterations:		1
+ConstraintSet:			P1
+
+-------------------------------------------------------------------------------------------------------------------
+Tour_Id:			1
+No_of_Customers:		2
+No_of_Items:			6
+Customer_Sequence:		29 26 
+
+CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStrength
+26	103	4	0	0	0	0	27	14	9	524.89	0		19.464575
+26	104	5	0	0	14	0	29	8	14	694.02	0		13.539245
+26	102	1	0	0	0	9	18	11	14	331.43	0		4.360663
+26	105	10	0	27	0	0	28	13	14	2277.45	1		6.640149
+29	116	1	0	29	14	0	18	11	14	331.43	0		4.360663
+29	117	1	0	29	14	14	18	11	14	331.43	0		4.360663
+
+
