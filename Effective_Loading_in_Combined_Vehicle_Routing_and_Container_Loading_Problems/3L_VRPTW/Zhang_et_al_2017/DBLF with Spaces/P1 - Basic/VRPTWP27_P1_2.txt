@@ -400,3 +400,5 @@ CustId	Id	TypeId	Rotated	x	y	z	Length	Width	Height	mass	Fragility	LoadBearingStr
 16	28	28	0	22	0	16	28	10	14	9.50	0		1.489963
 86	165	165	0	0	9	13	18	11	17	11.67	0		2.076796
 61	112	112	1	23	10	12	14	13	18	13.00	1		0.532092
+
+
